@@ -1,0 +1,82 @@
+{
+  "gid": "ecowas",
+  "acronym": "ECOWAS",
+  "name": "Economic Community of West African States (ECOWAS)",
+  "description": "stablished on May 28 1975 via the treaty of Lagos, ECOWAS is a 15-member regional group with a mandate of promoting economic integration in all fields of activity of the constituting countries.",
+  "classifier": "ECOWAS",
+  "domains": [
+    "Africa"
+  ],
+  "countries": [
+    {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "name": "The Gambia",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Cote D'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN"
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO"
+    }
+  ]
+}

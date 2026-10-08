@@ -1,0 +1,52 @@
+{
+  "gid": "sica",
+  "acronym": "SICA",
+  "name": "Central American Integration System",
+  "description": "The Community of Portuguese Language Countries, also known as the Lusophone Commonwealth, is an international organization and political association of Lusophone nations across four continents, where Portuguese is an official language.",
+  "classifier": "SICA",
+  "domains": [
+    "Latin America and the Caribbean"
+  ],
+  "countries": [
+    {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ"
+    },
+    {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI"
+    },
+    {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "iso3": "SLV"
+    },
+    {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM"
+    },
+    {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND"
+    },
+    {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC"
+    },
+    {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN"
+    },
+    {
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "iso3": "DOM"
+    }
+  ]
+}

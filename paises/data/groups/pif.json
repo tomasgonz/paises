@@ -1,0 +1,103 @@
+{
+  "gid": "pif",
+  "acronym": "PIF",
+  "name": "Pacific Island Forum",
+  "description": "The Pacific Islands Forum is a political grouping of 16 independent and self-governing states. The host country of the annual Forum is also the chair for the year following the Forum.",
+  "classifier": "Pacific Island Forum",
+  "domains": [
+    "Oceania",
+    "Pacific"
+  ],
+  "countries": [
+    {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS"
+    },
+    {
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "iso3": "COK"
+    },
+    {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI"
+    },
+    {
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "iso3": "PYF"
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR"
+    },
+    {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL"
+    },
+    {
+      "name": "Micronesia",
+      "iso2": "FM",
+      "iso3": "FSM"
+    },
+    {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU"
+    },
+    {
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "iso3": "NCL"
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL"
+    },
+    {
+      "name": "Niue",
+      "iso2": "NU",
+      "iso3": "NIU"
+    },
+    {
+      "name": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW"
+    },
+    {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG"
+    },
+    {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM"
+    },
+    {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB"
+    },
+    {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON"
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV"
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT"
+    }
+  ]
+}

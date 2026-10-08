@@ -1,0 +1,111 @@
+{
+  "gid": "g20",
+  "acronym": "G20",
+  "name": "G20",
+  "description": "Originated in 1999 at the level of Finance Ministers and Central Bank Governors, the G20 gathered for high-level discussions on macro-financial issues. In the wake of the 2008 global financial crisis, the G20 was elevated to include the leaders of member countries. The first G20 Leaders Summit took place in Washington D.C. in November 2008. Consequently, the G20 agenda expanded beyond macro-financial issues, to include socio-economic and development issues. Throughout the year, representatives from G20 countries gather to discuss financial and socioeconomic issues.​",
+  "classifier": "G20",
+  "domains": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "Latin America and the Caribbean",
+    "Oceania"
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG"
+    },
+    {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS"
+    },
+    {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA"
+    },
+    {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN"
+    },
+    {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN"
+    },
+    {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA"
+    },
+    {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU"
+    },
+    {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND"
+    },
+    {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN"
+    },
+    {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA"
+    },
+    {
+      "name": "Japan",
+      "iso2": "JP",
+      "iso3": "JPN"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX"
+    },
+    {
+      "name": "Korea, Rep.",
+      "iso2": "KR",
+      "iso3": "KOR"
+    },
+    {
+      "name": "Russian Federation",
+      "iso2": "RU",
+      "iso3": "RUS"
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR"
+    },
+    {
+      "name": "United States",
+      "iso2": "US",
+      "iso3": "USA"
+    }
+  ]
+}

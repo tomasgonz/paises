@@ -1,0 +1,172 @@
+{
+  "gid": "lldcs",
+  "acronym": "LLDCs",
+  "name": "Landlocked Developing Countries",
+  "description": "Lack of territorial access to the sea, remoteness and isolation from world markets and high transit costs continue to impose serious constraints on the overall socio-economic development of landlocked developing countries.",
+  "classifier": "United Nations",
+  "domains": [
+    "UNGA"
+  ],
+  "countries": [
+    {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA"
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI"
+    },
+    {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF"
+    },
+    {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD"
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA"
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD"
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE"
+    },
+    {
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG"
+    },
+    {
+      "name": "Bhutan",
+      "iso2": "BT",
+      "iso3": "BTN"
+    },
+    {
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ"
+    },
+    {
+      "name": "Kyrgyz Republic",
+      "iso2": "KG",
+      "iso3": "KGZ"
+    },
+    {
+      "name": "Lao PDR",
+      "iso2": "LA",
+      "iso3": "LAO"
+    },
+    {
+      "name": "Mongolia",
+      "iso2": "MN",
+      "iso3": "MNG"
+    },
+    {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL"
+    },
+    {
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK"
+    },
+    {
+      "name": "Turkmenistan",
+      "iso2": "TM",
+      "iso3": "TKM"
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB"
+    },
+    {
+      "name": "Armenia",
+      "iso2": "AM",
+      "iso3": "ARM"
+    },
+    {
+      "name": "Azerbaijan",
+      "iso2": "AZ",
+      "iso3": "AZE"
+    },
+    {
+      "name": "Moldova",
+      "iso2": "MD",
+      "iso3": "MDA"
+    },
+    {
+      "name": "North Macedonia",
+      "iso2": "MK",
+      "iso3": "MKD"
+    },
+    {
+      "name": "Bolivia",
+      "iso2": "BO",
+      "iso3": "BOL"
+    },
+    {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "iso3": "PRY"
+    }
+  ]
+}

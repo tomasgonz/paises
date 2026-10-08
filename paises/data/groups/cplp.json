@@ -1,0 +1,60 @@
+{
+  "gid": "cplp",
+  "acronym": "CPLP",
+  "name": "Community of Portuguese Speaking Countries",
+  "description": "The Community of Portuguese Language Countries, also known as the Lusophone Commonwealth, is an international organization and political association of Lusophone nations across four continents, where Portuguese is an official language.",
+  "classifier": "CPLP",
+  "domains": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "Latin America and the Caribbean"
+  ],
+  "countries": [
+    {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO"
+    },
+    {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA"
+    },
+    {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "iso2": "ST",
+      "iso3": "STP"
+    },
+    {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS"
+    }
+  ]
+}

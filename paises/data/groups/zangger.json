@@ -1,0 +1,207 @@
+{
+  "gid": "zangger",
+  "acronym": "zangger",
+  "name": "Zangger Committee",
+  "description": "The Zangger Committee, also known as the Nuclear Exporters Committee, sprang from Article III.2 of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) which entered into force on March 5, 1970. Under the terms of Article III.2 International Atomic Energy Agency (IAEA) safeguards must be applied to nuclear exports. ",
+  "classifier": "zangger",
+  "domains": [
+    "Peace and Security"
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG"
+    },
+    {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS"
+    },
+    {
+      "name": "Austria",
+      "iso2": "AT",
+      "iso3": "AUT"
+    },
+    {
+      "name": "Belarus",
+      "iso2": "BY",
+      "iso3": "BLR"
+    },
+    {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL"
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR"
+    },
+    {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN"
+    },
+    {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN"
+    },
+    {
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV"
+    },
+    {
+      "name": "Czech Republic",
+      "iso2": "CZ",
+      "iso3": "CZE"
+    },
+    {
+      "name": "Denmark",
+      "iso2": "DK",
+      "iso3": "DNK"
+    },
+    {
+      "name": "Finland",
+      "iso2": "FI",
+      "iso3": "FIN"
+    },
+    {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA"
+    },
+    {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU"
+    },
+    {
+      "name": "Greece",
+      "iso2": "GR",
+      "iso3": "GRC"
+    },
+    {
+      "name": "Hungary",
+      "iso2": "HU",
+      "iso3": "HUN"
+    },
+    {
+      "name": "Ireland",
+      "iso2": "IE",
+      "iso3": "IRL"
+    },
+    {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA"
+    },
+    {
+      "name": "Japan",
+      "iso2": "JP",
+      "iso3": "JPN"
+    },
+    {
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ"
+    },
+    {
+      "name": "Korea, Rep.",
+      "iso2": "KR",
+      "iso3": "KOR"
+    },
+    {
+      "name": "Luxemburg",
+      "iso2": "LU",
+      "iso3": "LUX"
+    },
+    {
+      "name": "The Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD"
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL"
+    },
+    {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR"
+    },
+    {
+      "name": "Poland",
+      "iso2": "PL",
+      "iso3": "POL"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT"
+    },
+    {
+      "name": "Romania",
+      "iso2": "RO",
+      "iso3": "ROU"
+    },
+    {
+      "name": "Russian Federation",
+      "iso2": "RU",
+      "iso3": "RUS"
+    },
+    {
+      "name": "Slovakia",
+      "iso2": "SK",
+      "iso3": "SVK"
+    },
+    {
+      "name": "Slovenia",
+      "iso2": "SI",
+      "iso3": "SVN"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP"
+    },
+    {
+      "name": "Sweden",
+      "iso2": "SE",
+      "iso3": "SWE"
+    },
+    {
+      "name": "Switzerland",
+      "iso2": "CH",
+      "iso3": "CHE"
+    },
+    {
+      "name": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR"
+    },
+    {
+      "name": "Ukraine",
+      "iso2": "UA",
+      "iso3": "UKR"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR"
+    },
+    {
+      "name": "United States",
+      "iso2": "US",
+      "iso3": "USA"
+    }
+  ]
+}

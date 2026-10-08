@@ -1,0 +1,38 @@
+{
+  "gid": "ioc",
+  "acronym": "IOC",
+  "name": "Indian Ocean Commission",
+  "description": "The Indian Ocean Commission (French: Commission de l'Océan Indien, COI) is an intergovernmental organization that links African Indian Ocean nations.",
+  "classifier": "IOC",
+  "domains": [
+    "Asia",
+    "Africa"
+  ],
+  "countries": [
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS"
+    },
+    {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    }
+  ]
+}

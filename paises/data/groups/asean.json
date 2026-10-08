@@ -1,0 +1,62 @@
+{
+  "gid": "asean",
+  "acronym": "ASEAN",
+  "name": "Association of Southeast Asian Nations",
+  "description": "The Association of Southeast Asian Nations[9] (ASEAN; /ˈɑːsiɑːn/ AH-see-ahn,[10] /ˈɑːziɑːn/ AH-zee-ahn)[11][12] is a regional intergovernmental organization comprising ten countries in Southeast Asia, which promotes intergovernmental cooperation and facilitates economic, political, security, military, educational, and sociocultural integration among its members and other countries in Asia.",
+  "classifier": "ASEAN",
+  "domains": [
+    "UNGA"
+  ],
+  "countries": [
+    {
+      "name": "Brunei Darussalam",
+      "iso2": "BN",
+      "iso3": "BRN"
+    },
+    {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM"
+    },
+    {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN"
+    },
+    {
+      "name": "Laos",
+      "iso2": "LA",
+      "iso3": "LAO"
+    },
+    {
+      "name": "Malaysia",
+      "iso2": "MY",
+      "iso3": "MYS"
+    },
+    {
+      "name": "Myanmar",
+      "iso2": "MM",
+      "iso3": "MMR"
+    },
+    {
+      "name": "Philippines",
+      "iso2": "PH",
+      "iso3": "PHL"
+    },
+    {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP"
+    },
+    {
+      "name": "Thailand",
+      "iso2": "TH",
+      "iso3": "THA"
+    },
+    {
+      "name": "Vietnam",
+      "iso2": "VN",
+      "iso3": "VNM"
+    }
+  ]
+}

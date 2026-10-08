@@ -1,0 +1,154 @@
+{
+  "gid": "nato",
+  "acronym": "NATO",
+  "name": "North Atlantic Treaty Organization",
+  "description": "The North Atlantic Treaty Organization (NATO, /ˈneɪtoʊ/; French: Organisation du traité de l'Atlantique nord, OTAN), also called the North Atlantic Alliance, is an intergovernmental military alliance between 30 North American and European countries. The organization implements the North Atlantic Treaty that was signed on 4 April 1949.[3][4] NATO constitutes a system of collective defence whereby its independent member states agree to mutual defence in response to an attack by any external party. NATO's Headquarters are located in Evere, Brussels, Belgium, while the headquarters of Allied Command Operations is near Mons, Belgium. Since its founding, the admission of new member states has increased the alliance from the original 12 countries to 30. The most recent member state to be added to NATO was North Macedonia on 27 March 2020. NATO currently recognizes Bosnia and Herzegovina, Georgia, and Ukraine as aspiring members.[5] An additional 20 countries participate in NATO's Partnership for Peace program, with 15 other countries involved in institutionalized dialogue programs. The combined military spending of all NATO members constitutes over 70% of the global total.[6] Members agreed that their aim is to reach or maintain the target defense spending of at least 2% of GDP by 2024.",
+  "classifier": "NATO",
+  "domains": [
+    "Europe",
+    "North America",
+    "Peace and Security"
+  ],
+  "countries": [
+    {
+      "name": "Albania",
+      "iso2": "AL",
+      "iso3": "ALB"
+    },
+    {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL"
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR"
+    },
+    {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN"
+    },
+    {
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV"
+    },
+    {
+      "name": "Czech Republic",
+      "iso2": "CZ",
+      "iso3": "CZE"
+    },
+    {
+      "name": "Denmark",
+      "iso2": "DK",
+      "iso3": "DNK"
+    },
+    {
+      "name": "Estonia",
+      "iso2": "EE",
+      "iso3": "EST"
+    },
+    {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA"
+    },
+    {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU"
+    },
+    {
+      "name": "Greece",
+      "iso2": "GR",
+      "iso3": "GRC"
+    },
+    {
+      "name": "Hungary",
+      "iso2": "HU",
+      "iso3": "HUN"
+    },
+    {
+      "name": "Iceland",
+      "iso2": "IS",
+      "iso3": "ISL"
+    },
+    {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA"
+    },
+    {
+      "name": "Latvia",
+      "iso2": "LV",
+      "iso3": "LVA"
+    },
+    {
+      "name": "Lithuania",
+      "iso2": "LT",
+      "iso3": "LTU"
+    },
+    {
+      "name": "Luxembourg",
+      "iso2": "LU",
+      "iso3": "LUX"
+    },
+    {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD"
+    },
+    {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR"
+    },
+    {
+      "name": "Poland",
+      "iso2": "PL",
+      "iso3": "POL"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT"
+    },
+    {
+      "name": "Romania",
+      "iso2": "RO",
+      "iso3": "ROU"
+    },
+    {
+      "name": "Slovakia",
+      "iso2": "SK",
+      "iso3": "SVK"
+    },
+    {
+      "name": "Slovenia",
+      "iso2": "SI",
+      "iso3": "SVN"
+    },
+    {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP"
+    },
+    {
+      "name": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR"
+    },
+    {
+      "name": "United States",
+      "iso2": "US",
+      "iso3": "USA"
+    }
+  ]
+}

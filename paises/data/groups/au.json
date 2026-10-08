@@ -1,0 +1,288 @@
+{
+  "gid": "au",
+  "acronym": "AU",
+  "name": "African Union",
+  "description": "The African Union (AU) is a continental body consisting of the 55 member states that make up the countries of the African Continent. It was officially launched in 2002 as a successor to the Organisation of African Unity (OAU, 1963-1999). ",
+  "classifier": "African Union",
+  "domains": [
+    "UNGA",
+    "Africa"
+  ],
+  "countries": [
+    {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO"
+    },
+    {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA"
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI"
+    },
+    {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR"
+    },
+    {
+      "name": "Cape Verde",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF"
+    },
+    {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Congo, Dem. Rep.",
+      "iso2": "CD",
+      "iso3": "COD"
+    },
+    {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI"
+    },
+    {
+      "name": "Egypt, Arab Rep.",
+      "iso2": "EG",
+      "iso3": "EGY"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ"
+    },
+    {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI"
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB"
+    },
+    {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Ivory Coast",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN"
+    },
+    {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "name": "Libya",
+      "iso2": "LY",
+      "iso3": "LBY"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS"
+    },
+    {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "Congo, Rep.",
+      "iso2": "CG",
+      "iso3": "COG"
+    },
+    {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA"
+    },
+    {
+      "name": "Sahrawi Arab Democratic Republic",
+      "iso2": "EH",
+      "iso3": "ESH"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "iso2": "ST",
+      "iso3": "STP"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO"
+    },
+    {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE"
+    }
+  ]
+}

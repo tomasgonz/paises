@@ -1,0 +1,157 @@
+{
+  "gid": "g24",
+  "acronym": "G24",
+  "name": "G24",
+  "description": "The Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development (G-24) coordinates the position of developing countries on monetary and development issues in the deliberations and decisions of the Bretton Woods Institutions (BWI). In particular, the G-24 focuses on issues on the agendas of the International Monetary and Financial Committee (IMFC) and the Development Committee (DC) as well as in other relevant international fora.​",
+  "classifier": "G24",
+  "domains": [
+    "IMF"
+  ],
+  "countries": [
+    {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "name": "Congo, Dem. Rep.",
+      "iso2": "CD",
+      "iso3": "COD"
+    },
+    {
+      "name": "Egypt, Arab Rep.",
+      "iso2": "EG",
+      "iso3": "EGY"
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN"
+    },
+    {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG"
+    },
+    {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA"
+    },
+    {
+      "name": "Colombia",
+      "iso2": "CO",
+      "iso3": "COL"
+    },
+    {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "iso3": "ECU"
+    },
+    {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM"
+    },
+    {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX"
+    },
+    {
+      "name": "Peru",
+      "iso2": "PE",
+      "iso3": "PER"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO"
+    },
+    {
+      "name": "Venezuela",
+      "iso2": "VE",
+      "iso3": "VEN"
+    },
+    {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN"
+    },
+    {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND"
+    },
+    {
+      "name": "Iran",
+      "iso2": "IR",
+      "iso3": "IRN"
+    },
+    {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN"
+    },
+    {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK"
+    },
+    {
+      "name": "Philippines",
+      "iso2": "PH",
+      "iso3": "PHL"
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA"
+    },
+    {
+      "name": "Syria",
+      "iso2": "SY",
+      "iso3": "SYR"
+    }
+  ]
+}

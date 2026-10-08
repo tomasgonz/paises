@@ -1,0 +1,42 @@
+{
+  "gid": "gcc",
+  "acronym": "GCC",
+  "name": "Gulf Cooperation Council",
+  "description": "The Cooperation Council for the Arab States of the Gulf (Arabic: مجلس التعاون لدول الخليج العربي‎), originally (and still colloquially) known as the Gulf Cooperation Council (GCC, مجلس التعاون الخليجي), is a regional intergovernmental political and economic union consisting of all Arab states of the Persian Gulf except Iraq, namely: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.[3] The Charter of the GCC was signed on 25 May 1981, formally establishing the institution.",
+  "classifier": "GCC",
+  "domains": [
+    "Arab World"
+  ],
+  "countries": [
+    {
+      "name": "Bahrain",
+      "iso2": "BH",
+      "iso3": "BHR"
+    },
+    {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT"
+    },
+    {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN"
+    },
+    {
+      "name": "Qatar",
+      "iso2": "QA",
+      "iso3": "QAT"
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU"
+    },
+    {
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE"
+    }
+  ]
+}

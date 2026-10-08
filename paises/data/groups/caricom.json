@@ -1,0 +1,89 @@
+{
+  "gid": "caricom",
+  "acronym": "CARICOM",
+  "name": "The Caribbean Community",
+  "description": "The Caribbean Community (CARICOM) is an organization of 15 Caribbean nations and dependencies. Its Chair rotates on a quarterly basis among its members. CARICOM has observer status and maintains a permanent office in NY.",
+  "classifier": "The Caribbean Community",
+  "domains": [
+    "UNGA",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "countries": [
+    {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG"
+    },
+    {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS"
+    },
+    {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB"
+    },
+    {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ"
+    },
+    {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA"
+    },
+    {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD"
+    },
+    {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY"
+    },
+    {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI"
+    },
+    {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM"
+    },
+    {
+      "name": "Montserrat",
+      "iso2": "MS",
+      "iso3": "MSR"
+    },
+    {
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "iso3": "LCA"
+    },
+    {
+      "name": "St. Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT"
+    },
+    {
+      "name": "Suriname",
+      "iso2": "SR",
+      "iso3": "SUR"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO"
+    }
+  ]
+}

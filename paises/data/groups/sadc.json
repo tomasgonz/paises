@@ -1,0 +1,92 @@
+{
+  "gid": "sadc",
+  "acronym": "SADC",
+  "name": "SADC",
+  "description": "The Southern African Development Community is an inter-governmental organization headquartered in Gaborone, Botswana. Its goal is to further socio-economic cooperation and integration as well as political and security cooperation among 16 southern African countries.",
+  "classifier": "SADC",
+  "domains": [
+    "Africa"
+  ],
+  "countries": [
+    {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO"
+    },
+    {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Congo, Dem. Rep.",
+      "iso2": "CD",
+      "iso3": "COD"
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE"
+    }
+  ]
+}

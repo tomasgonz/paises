@@ -1,0 +1,122 @@
+{
+  "gid": "las",
+  "acronym": "LAS",
+  "name": "League of Arab States",
+  "description": "The League of Arab States (sometimes called “the Arab League”) is a regional organization. It has 22 members and four observers. Its Chair rotates on a monthly basis. The League of Arab States coordinates on Fourth Committee and Middle East issues. The League of Arab States has observer status and maintains a permanent office in NY.",
+  "classifier": "United Nations General Assembly",
+  "domains": [
+    "Arab World"
+  ],
+  "countries": [
+    {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "name": "Bahrain",
+      "iso2": "BH",
+      "iso3": "BHR"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI"
+    },
+    {
+      "name": "Egypt, Arab Rep.",
+      "iso2": "EG",
+      "iso3": "EGY"
+    },
+    {
+      "name": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ"
+    },
+    {
+      "name": "Jordan",
+      "iso2": "JO",
+      "iso3": "JOR"
+    },
+    {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT"
+    },
+    {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN"
+    },
+    {
+      "name": "Libya",
+      "iso2": "LY",
+      "iso3": "LBY"
+    },
+    {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR"
+    },
+    {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN"
+    },
+    {
+      "name": "Palestine",
+      "iso2": "PS",
+      "iso3": "PSE"
+    },
+    {
+      "name": "Qatar",
+      "iso2": "QA",
+      "iso3": "QAT"
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Syria",
+      "iso2": "SY",
+      "iso3": "SYR"
+    },
+    {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN"
+    },
+    {
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE"
+    },
+    {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM"
+    }
+  ]
+}

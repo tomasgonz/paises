@@ -1,0 +1,302 @@
+{
+  "gid": "ida",
+  "acronym": "IDA",
+  "name": "International Development Association",
+  "description": "The International Development Association (IDA) is the part of the World Bank that helps the world’s poorest countries. Overseen by 173 shareholder nations, IDA aims to reduce poverty by providing loans (called “credits”) and grants for programs that boost economic growth, reduce inequalities, and improve people’s living conditions. IDA complements the World Bank’s original lending arm—the International Bank for Reconstruction and Development (IBRD). IBRD was established to function as a self-sustaining business and provides loans and advice to middle-income and credit-worthy poor countries. IBRD and IDA share the same staff and headquarters and evaluate projects with the same rigorous standards. IDA is one of the largest sources of assistance for the world’s 74 poorest countries and is the single largest source of donor funds for basic social services in these countries. IDA lends money on concessional terms. This means that IDA credits have a zero or very low interest charge and repayments are stretched over 30 to 38 years, including a 5- to 10-year grace period. IDA also provides grants to countries at risk of debt distress. In addition to concessional loans and grants, IDA provides significant levels of debt relief through the Heavily Indebted Poor Countries (HIPC) Initiative and the Multilateral Debt Relief Initiative (MDRI).In the fiscal year ending June 30, 2020, IDA commitments totaled $30.48 billion, of which 26 percent was provided on grant terms. Total commitments in FY20 comprised 305 new operations. Since 1960, IDA has provided $422 billion for investments in 114 countries. Annual commitments have increased steadily and averaged about $25 billion over the last three years (FY18-FY20).IDA is a multi-issue institution, supporting a range of development activities that pave the way toward equality, economic growth, job creation, higher incomes, and better living conditions. IDA's work covers primary education, basic health services, clean water and sanitation, agriculture, business climate improvements, infrastructure, and institutional reforms.",
+  "classifier": "World Bank",
+  "domains": [
+    "World Bank"
+  ],
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG"
+    },
+    {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD"
+    },
+    {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "name": "Bhutan",
+      "iso2": "BT",
+      "iso3": "BTN"
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI"
+    },
+    {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM"
+    },
+    {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF"
+    },
+    {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Congo, Dem. Rep.",
+      "iso2": "CD",
+      "iso3": "COD"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI"
+    },
+    {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI"
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "name": "Gambia, The",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY"
+    },
+    {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI"
+    },
+    {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND"
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR"
+    },
+    {
+      "name": "Kosovo",
+      "iso2": "XK",
+      "iso3": "XKX"
+    },
+    {
+      "name": "Kyrgyz Republic",
+      "iso2": "KG",
+      "iso3": "KGZ"
+    },
+    {
+      "name": "Lao PDR",
+      "iso2": "LA",
+      "iso3": "LAO"
+    },
+    {
+      "name": "Lesotho Somalia",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Maldives",
+      "iso2": "MV",
+      "iso3": "MDV"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL"
+    },
+    {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
+      "name": "Micronesia, Fed. Sts.",
+      "iso2": "FM",
+      "iso3": "FSM"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Myanmar",
+      "iso2": "MM",
+      "iso3": "MMR"
+    },
+    {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL"
+    },
+    {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA"
+    },
+    {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM"
+    },
+    {
+      "name": "São Tomé and Principe",
+      "iso2": "ST",
+      "iso3": "STP"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN"
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB"
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Syria",
+      "iso2": "SY",
+      "iso3": "SYR"
+    },
+    {
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK"
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO"
+    },
+    {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON"
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT"
+    },
+    {
+      "name": "Yemen, Rep.",
+      "iso2": "YE",
+      "iso3": "YEM"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB"
+    }
+  ]
+}

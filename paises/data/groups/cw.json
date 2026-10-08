@@ -1,0 +1,287 @@
+{
+  "gid": "cw",
+  "acronym": "cw",
+  "name": "The Commonwealth",
+  "description": "The Commonwealth is a voluntary association of 54 independent and equal countries. It is home to 2.4 billion people, and includes both advanced economies and developing countries.",
+  "classifier": "The Commonwealth",
+  "domains": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Pacific"
+  ],
+  "countries": [
+    {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG"
+    },
+    {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS"
+    },
+    {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD"
+    },
+    {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB"
+    },
+    {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ"
+    },
+    {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "iso2": "BN",
+      "iso3": "BRN"
+    },
+    {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR"
+    },
+    {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN"
+    },
+    {
+      "name": "Cyprus",
+      "iso2": "CY",
+      "iso3": "CYP"
+    },
+    {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA"
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY"
+    },
+    {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND"
+    },
+    {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM"
+    },
+    {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN"
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR"
+    },
+    {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Malaysia",
+      "iso2": "MY",
+      "iso3": "MYS"
+    },
+    {
+      "name": "Malta",
+      "iso2": "MT",
+      "iso3": "MLT"
+    },
+    {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM"
+    },
+    {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU"
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK"
+    },
+    {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG"
+    },
+    {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA"
+    },
+    {
+      "name": "St. Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT"
+    },
+    {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP"
+    },
+    {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF"
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA"
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    },
+    {
+      "name": "The Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS"
+    },
+    {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO"
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR"
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE"
+    }
+  ]
+}
