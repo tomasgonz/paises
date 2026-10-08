@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "paises"
-version = "1.1.0"
+version = "1.2.0"
 description = "Comprehensive country & group data library — 250 countries, 48 groups, typed, zero dependencies"
 authors = ["Tomas <tomasgonz@gmail.com>"]
 license = "MIT"

@@ -730,10 +730,10 @@
       "G24",
       "G77",
       "LAS",
-      "LMCs",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -995,7 +995,7 @@
     "driving_side": "right",
     "groups": [
       "SIDS",
-      "UMCs"
+      "HICs"
     ],
     "organizations": {
       "AOSIS": "observer",
@@ -3895,7 +3895,8 @@
       "OAS",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -4142,12 +4143,11 @@
       "Developing-ex-LLDCs",
       "G77",
       "GCC",
-      "HICs",
       "LAS",
       "NAM",
       "OIC",
-      "SIDS",
-      "UN"
+      "UN",
+      "HICs"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -5499,7 +5499,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -6011,6 +6012,7 @@
     ],
     "driving_side": "left",
     "groups": [
+      "SIDS",
       "HICs"
     ],
     "organizations": {
@@ -6490,7 +6492,8 @@
       "LMCs",
       "NAM",
       "OAS",
-      "UN"
+      "UN",
+      "MERCOSUR"
     ],
     "organizations": {
       "CAN": "member",
@@ -6756,7 +6759,6 @@
     ],
     "driving_side": "right",
     "groups": [
-      "NAM",
       "OSCE",
       "UMCs",
       "UN"
@@ -7475,7 +7477,6 @@
       "G77",
       "GRULAC",
       "MERCOSUR",
-      "NAM",
       "OAS",
       "UMCs",
       "UN"
@@ -8396,9 +8397,9 @@
       "EU",
       "NATO",
       "OSCE",
-      "UMCs",
       "UN",
-      "zangger"
+      "zangger",
+      "HICs"
     ],
     "organizations": {
       "AG": "member",
@@ -9456,7 +9457,8 @@
       "NAM",
       "OIC",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -10006,10 +10008,12 @@
       "Developing-ex-LLDCs",
       "ECOWAS",
       "G77",
-      "LMCs",
       "NAM",
+      "UN",
       "SIDS",
-      "UN"
+      "UMCs",
+      "ACP",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -10443,6 +10447,7 @@
     ],
     "driving_side": "left",
     "groups": [
+      "SIDS",
       "HICs"
     ],
     "organizations": {
@@ -11180,7 +11185,6 @@
       "G77",
       "GRULAC",
       "HICs",
-      "NAM",
       "OAS",
       "OECD",
       "UN"
@@ -11470,7 +11474,6 @@
       "Developing",
       "Developing-ex-LLDCs",
       "G20",
-      "G24",
       "G77",
       "UMCs",
       "UN",
@@ -12422,7 +12425,8 @@
       "OIC",
       "SADC",
       "SIDS",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -12688,7 +12692,8 @@
       "G77",
       "LMCs",
       "NAM",
-      "UN"
+      "UN",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -12976,7 +12981,8 @@
       "SADC",
       "UN",
       "Developing",
-      "Developing-ex-LLDCs"
+      "Developing-ex-LLDCs",
+      "EAC"
     ],
     "organizations": {
       "ACP": "member",
@@ -13228,7 +13234,8 @@
     "groups": [
       "AOSIS",
       "PIF",
-      "SIDS"
+      "SIDS",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -13451,11 +13458,11 @@
       "Developing-ex-LLDCs",
       "G77",
       "GRULAC",
-      "NAM",
       "OAS",
       "SICA",
-      "UMCs",
-      "UN"
+      "UN",
+      "OECD",
+      "HICs"
     ],
     "organizations": {
       "BCIE": "member",
@@ -14231,6 +14238,7 @@
     ],
     "driving_side": "right",
     "groups": [
+      "SIDS",
       "HICs"
     ],
     "organizations": {
@@ -15808,7 +15816,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -16597,10 +16606,11 @@
       "G24",
       "G77",
       "LAS",
-      "LMCs",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "BRICS",
+      "LMCs"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -16870,10 +16880,10 @@
       "Developing-ex-LLDCs",
       "G77",
       "GRULAC",
-      "LMCs",
       "OAS",
       "SICA",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "BCIE": "member",
@@ -17150,7 +17160,8 @@
       "G77",
       "NAM",
       "UMCs",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -17410,7 +17421,8 @@
       "LDCs",
       "LICs",
       "NAM",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -17930,7 +17942,8 @@
       "NAM",
       "SADC",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -18181,11 +18194,13 @@
       "G24",
       "G77",
       "IDA",
-      "LDCs",
-      "LICs",
       "LLDCs",
       "NAM",
-      "UN"
+      "UN",
+      "LDCs",
+      "BRICS",
+      "LICs",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -18854,7 +18869,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -19114,7 +19130,8 @@
       "OSCE",
       "UN",
       "WEOG",
-      "zangger"
+      "zangger",
+      "NATO"
     ],
     "organizations": {
       "ADB": "nonregional member",
@@ -20318,7 +20335,8 @@
       "NAM",
       "OIC",
       "UMCs",
-      "UN"
+      "UN",
+      "cw"
     ],
     "organizations": {
       "ACP": "member",
@@ -22323,7 +22341,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -22555,7 +22574,9 @@
       "UTC-04:00"
     ],
     "driving_side": "right",
-    "groups": [],
+    "groups": [
+      "SIDS"
+    ],
     "organizations": {},
     "profile": ""
   },
@@ -23444,12 +23465,12 @@
       "ECOWAS",
       "G77",
       "IDA",
-      "LDCs",
-      "LICs",
       "NAM",
       "OIC",
       "UN",
-      "cw"
+      "cw",
+      "LDCs",
+      "LMCs"
     ],
     "organizations": {
       "ACP": "member",
@@ -23976,10 +23997,10 @@
       "NAM",
       "OAS",
       "OIC",
-      "SIDS",
-      "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "SIDS",
+      "HICs"
     ],
     "organizations": {
       "ACP": "member",
@@ -24239,12 +24260,12 @@
       "G77",
       "GRULAC",
       "IDA",
-      "LDCs",
-      "LICs",
       "NAM",
       "OAS",
+      "UN",
+      "LDCs",
       "SIDS",
-      "UN"
+      "LMCs"
     ],
     "organizations": {
       "ACP": "member",
@@ -26000,8 +26021,9 @@
       "G77",
       "NAM",
       "OIC",
-      "UMCs",
-      "UN"
+      "UN",
+      "BRICS",
+      "UMCs"
     ],
     "organizations": {
       "ADB": "member",
@@ -26278,8 +26300,9 @@
       "G77",
       "NAM",
       "OIC",
-      "UMCs",
-      "UN"
+      "UN",
+      "BRICS",
+      "UMCs"
     ],
     "organizations": {
       "CICA": "member",
@@ -29148,7 +29171,8 @@
       "LMCs",
       "NAM",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -29415,7 +29439,8 @@
       "PIF",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -30916,8 +30941,8 @@
       "LAS",
       "NAM",
       "OIC",
-      "UMCs",
-      "UN"
+      "UN",
+      "LMCs"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -31432,7 +31457,8 @@
       "LDCs",
       "LICs",
       "NAM",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -33965,7 +33991,6 @@
       "AU",
       "Africa",
       "Developing",
-      "ECOWAS",
       "G77",
       "IDA",
       "LDCs",
@@ -34493,7 +34518,8 @@
       "PIF",
       "SIDS",
       "UMCs",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -34713,7 +34739,9 @@
       "UTC-04:00"
     ],
     "driving_side": "right",
-    "groups": [],
+    "groups": [
+      "SIDS"
+    ],
     "organizations": {},
     "profile": ""
   },
@@ -35186,13 +35214,13 @@
       "Developing",
       "Developing-ex-LLDCs",
       "G77",
-      "HICs",
       "IOC",
       "NAM",
       "SADC",
-      "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "SIDS",
+      "UMCs"
     ],
     "organizations": {
       "ACP": "member",
@@ -35926,10 +35954,11 @@
       "Developing-ex-LLDCs",
       "G77",
       "IDA",
-      "LMCs",
       "PIF",
+      "UN",
       "SIDS",
-      "UN"
+      "UMCs",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -36157,9 +36186,9 @@
     "groups": [
       "Developing",
       "LLDCs",
-      "LMCs",
       "OSCE",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "BSEC": "member",
@@ -36646,10 +36675,10 @@
       "Developing",
       "G77",
       "LLDCs",
-      "LMCs",
       "NAM",
       "OSCE",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "ADB": "member",
@@ -36903,7 +36932,8 @@
     "groups": [
       "OSCE",
       "UMCs",
-      "UN"
+      "UN",
+      "NATO"
     ],
     "organizations": {
       "CE": "member",
@@ -38197,9 +38227,9 @@
       "G77",
       "NAM",
       "SADC",
-      "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "LMCs"
     ],
     "organizations": {
       "ACP": "member",
@@ -38460,7 +38490,8 @@
       "PIF",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -39713,7 +39744,6 @@
       "IDA",
       "LMCs",
       "NAM",
-      "OAS",
       "SICA",
       "UN"
     ],
@@ -39971,7 +40001,6 @@
       "AU",
       "Africa",
       "Developing",
-      "ECOWAS",
       "G77",
       "IDA",
       "LDCs",
@@ -40246,7 +40275,8 @@
       "NAM",
       "OIC",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -40512,7 +40542,8 @@
     "groups": [
       "AOSIS",
       "PIF",
-      "SIDS"
+      "SIDS",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -41170,7 +41201,8 @@
       "LLDCs",
       "OSCE",
       "UMCs",
-      "UN"
+      "UN",
+      "NATO"
     ],
     "organizations": {
       "BIS": "member",
@@ -42190,7 +42222,8 @@
       "NAM",
       "OIC",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ADB": "member",
@@ -42459,7 +42492,8 @@
       "HICs",
       "PIF",
       "SIDS",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -42691,7 +42725,8 @@
       "LAS",
       "LMCs",
       "NAM",
-      "OIC"
+      "OIC",
+      "ACD"
     ],
     "organizations": {
       "AL": "member"
@@ -43170,7 +43205,8 @@
       "PIF",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -43430,7 +43466,6 @@
       "GRULAC",
       "LLDCs",
       "MERCOSUR",
-      "NAM",
       "OAS",
       "UMCs",
       "UN"
@@ -43988,9 +44023,9 @@
       "Developing-ex-LLDCs",
       "G24",
       "G77",
-      "LMCs",
       "NAM",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "ADB": "member",
@@ -45773,12 +45808,12 @@
     "driving_side": "right",
     "groups": [
       "ACD",
-      "BRICS",
       "G20",
       "OSCE",
-      "UMCs",
       "UN",
-      "zangger"
+      "zangger",
+      "BRICS",
+      "HICs"
     ],
     "organizations": {
       "APEC": "member",
@@ -46532,7 +46567,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -47834,7 +47870,8 @@
       "SADC",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -48614,6 +48651,7 @@
     ],
     "driving_side": "right",
     "groups": [
+      "SIDS",
       "HICs"
     ],
     "organizations": {
@@ -49610,7 +49648,10 @@
       "LICs",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "ACP",
+      "EAC",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -50662,7 +50703,9 @@
       "LICs",
       "LLDCs",
       "NAM",
-      "UN"
+      "UN",
+      "ACP",
+      "EAC"
     ],
     "organizations": {
       "AU": "member",
@@ -51188,10 +51231,11 @@
       "Developing-ex-LLDCs",
       "G24",
       "G77",
-      "LMCs",
       "NAM",
       "UN",
-      "cw"
+      "cw",
+      "UMCs",
+      "IDA"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -52090,7 +52134,8 @@
       "OAS",
       "SIDS",
       "UMCs",
-      "UN"
+      "UN",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -52733,7 +52778,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -52991,7 +53037,8 @@
       "LICs",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "ACP"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -53255,7 +53302,8 @@
       "OIC",
       "SIDS",
       "UMCs",
-      "UN"
+      "UN",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -53697,7 +53745,8 @@
       "OSCE",
       "UN",
       "WEOG",
-      "zangger"
+      "zangger",
+      "NATO"
     ],
     "organizations": {
       "ADB": "nonregional member",
@@ -54288,7 +54337,8 @@
       "LAS",
       "LICs",
       "NAM",
-      "UN"
+      "UN",
+      "OIC"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -54539,11 +54589,11 @@
       "Developing-ex-LLDCs",
       "G77",
       "IDA",
-      "LDCs",
-      "LMCs",
       "NAM",
+      "UN",
       "SIDS",
-      "UN"
+      "LMCs",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -55001,11 +55051,11 @@
       "Developing",
       "G77",
       "IDA",
-      "LICs",
       "LLDCs",
       "OIC",
       "OSCE",
-      "UN"
+      "UN",
+      "LMCs"
     ],
     "organizations": {
       "ADB": "member",
@@ -55823,7 +55873,10 @@
       "LMCs",
       "NAM",
       "SIDS",
-      "UN"
+      "UN",
+      "ACP",
+      "ASEAN",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",
@@ -56070,11 +56123,12 @@
       "ECOWAS",
       "G77",
       "IDA",
-      "LDCs",
-      "LICs",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "LDCs",
+      "LMCs",
+      "cw"
     ],
     "organizations": {
       "ACP": "member",
@@ -56539,7 +56593,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -57833,6 +57888,7 @@
     ],
     "driving_side": "left",
     "groups": [
+      "SIDS",
       "HICs"
     ],
     "organizations": {
@@ -58045,7 +58101,8 @@
       "SIDS",
       "UMCs",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -58929,10 +58986,10 @@
     ],
     "driving_side": "right",
     "groups": [
-      "LMCs",
       "OSCE",
       "UN",
-      "zangger"
+      "zangger",
+      "UMCs"
     ],
     "organizations": {
       "AG": "member",
@@ -59201,11 +59258,12 @@
       "Developing-ex-LLDCs",
       "G77",
       "GCC",
-      "HICs",
       "LAS",
       "NAM",
       "OIC",
-      "UN"
+      "UN",
+      "BRICS",
+      "HICs"
     ],
     "organizations": {
       "ABEDA": "member",
@@ -60654,7 +60712,8 @@
       "NAM",
       "OIC",
       "OSCE",
-      "UN"
+      "UN",
+      "IDA"
     ],
     "organizations": {
       "ADB": "member",
@@ -60915,7 +60974,8 @@
       "PIF",
       "SIDS",
       "UN",
-      "cw"
+      "cw",
+      "ACP"
     ],
     "organizations": {
       "ACP": "member",
@@ -61390,8 +61450,8 @@
       "GRULAC",
       "NAM",
       "OAS",
-      "UMCs",
-      "UN"
+      "UN",
+      "LMCs"
     ],
     "organizations": {
       "CARICOM": "observer",
@@ -61657,9 +61717,9 @@
       "Developing",
       "Developing-ex-LLDCs",
       "G77",
-      "LMCs",
       "NAM",
-      "UN"
+      "UN",
+      "UMCs"
     ],
     "organizations": {
       "ADB": "member",
@@ -62916,7 +62976,8 @@
       "NAM",
       "SADC",
       "UN",
-      "cw"
+      "cw",
+      "IDA"
     ],
     "organizations": {
       "ACP": "member",

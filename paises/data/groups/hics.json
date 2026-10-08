@@ -1,17 +1,17 @@
 {
   "gid": "hics",
   "acronym": "HICs",
-  "name": "High Income economies",
-  "description": "High Income Economies, a category established by the World Bank, for the 2021 fiscal year, are defined as those with a GNI per capita of $12,536 or more.",
+  "name": "High-income economies",
+  "description": "High-income economies: GNI per capita above $14,375. World Bank income classification for fiscal year 2027 (July 2026 release, based on 2025 GNI per capita, Atlas method).",
   "classifier": "World Bank",
   "domains": [
     "World Bank"
   ],
   "countries": [
     {
-      "name": "Aruba",
-      "iso2": "AW",
-      "iso3": "ABW"
+      "name": "American Samoa",
+      "iso2": "AS",
+      "iso3": "ASM"
     },
     {
       "name": "Andorra",
@@ -19,14 +19,14 @@
       "iso3": "AND"
     },
     {
-      "name": "United Arab Emirates",
-      "iso2": "AE",
-      "iso3": "ARE"
-    },
-    {
       "name": "Antigua and Barbuda",
       "iso2": "AG",
       "iso3": "ATG"
+    },
+    {
+      "name": "Aruba",
+      "iso2": "AW",
+      "iso3": "ABW"
     },
     {
       "name": "Australia",
@@ -39,9 +39,9 @@
       "iso3": "AUT"
     },
     {
-      "name": "Belgium",
-      "iso2": "BE",
-      "iso3": "BEL"
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS"
     },
     {
       "name": "Bahrain",
@@ -49,9 +49,14 @@
       "iso3": "BHR"
     },
     {
-      "name": "Bahamas, The",
-      "iso2": "BS",
-      "iso3": "BHS"
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB"
+    },
+    {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL"
     },
     {
       "name": "Bermuda",
@@ -59,14 +64,19 @@
       "iso3": "BMU"
     },
     {
-      "name": "Barbados",
-      "iso2": "BB",
-      "iso3": "BRB"
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "iso3": "VGB"
     },
     {
-      "name": "Brunei Darussalam",
+      "name": "Brunei",
       "iso2": "BN",
       "iso3": "BRN"
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR"
     },
     {
       "name": "Canada",
@@ -74,9 +84,9 @@
       "iso3": "CAN"
     },
     {
-      "name": "Switzerland",
-      "iso2": "CH",
-      "iso3": "CHE"
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "iso3": "CYM"
     },
     {
       "name": "Chile",
@@ -84,14 +94,19 @@
       "iso3": "CHL"
     },
     {
-      "name": "Curacao",
-      "iso2": "CW",
-      "iso3": "CUW"
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI"
     },
     {
-      "name": "Cayman Islands",
-      "iso2": "KY",
-      "iso3": "CYM"
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV"
+    },
+    {
+      "name": "Curaçao",
+      "iso2": "CW",
+      "iso3": "CUW"
     },
     {
       "name": "Cyprus",
@@ -99,14 +114,9 @@
       "iso3": "CYP"
     },
     {
-      "name": "Czech Republic",
+      "name": "Czechia",
       "iso2": "CZ",
       "iso3": "CZE"
-    },
-    {
-      "name": "Germany",
-      "iso2": "DE",
-      "iso3": "DEU"
     },
     {
       "name": "Denmark",
@@ -114,14 +124,14 @@
       "iso3": "DNK"
     },
     {
-      "name": "Spain",
-      "iso2": "ES",
-      "iso3": "ESP"
-    },
-    {
       "name": "Estonia",
       "iso2": "EE",
       "iso3": "EST"
+    },
+    {
+      "name": "Faroe Islands",
+      "iso2": "FO",
+      "iso3": "FRO"
     },
     {
       "name": "Finland",
@@ -134,14 +144,14 @@
       "iso3": "FRA"
     },
     {
-      "name": "Faroe Islands",
-      "iso2": "FO",
-      "iso3": "FRO"
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "iso3": "PYF"
     },
     {
-      "name": "United Kingdom",
-      "iso2": "GB",
-      "iso3": "GBR"
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU"
     },
     {
       "name": "Gibraltar",
@@ -164,14 +174,14 @@
       "iso3": "GUM"
     },
     {
-      "name": "Hong Kong SAR, China",
-      "iso2": "HK",
-      "iso3": "HKG"
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY"
     },
     {
-      "name": "Croatia",
-      "iso2": "HR",
-      "iso3": "HRV"
+      "name": "Hong Kong",
+      "iso2": "HK",
+      "iso3": "HKG"
     },
     {
       "name": "Hungary",
@@ -179,9 +189,9 @@
       "iso3": "HUN"
     },
     {
-      "name": "Isle of Man",
-      "iso2": "IM",
-      "iso3": "IMN"
+      "name": "Iceland",
+      "iso2": "IS",
+      "iso3": "ISL"
     },
     {
       "name": "Ireland",
@@ -189,9 +199,9 @@
       "iso3": "IRL"
     },
     {
-      "name": "Iceland",
-      "iso2": "IS",
-      "iso3": "ISL"
+      "name": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN"
     },
     {
       "name": "Israel",
@@ -209,19 +219,14 @@
       "iso3": "JPN"
     },
     {
-      "name": "St. Kitts and Nevis",
-      "iso2": "KN",
-      "iso3": "KNA"
-    },
-    {
-      "name": "Korea, Rep.",
-      "iso2": "KR",
-      "iso3": "KOR"
-    },
-    {
       "name": "Kuwait",
       "iso2": "KW",
       "iso3": "KWT"
+    },
+    {
+      "name": "Latvia",
+      "iso2": "LV",
+      "iso3": "LVA"
     },
     {
       "name": "Liechtenstein",
@@ -239,24 +244,9 @@
       "iso3": "LUX"
     },
     {
-      "name": "Latvia",
-      "iso2": "LV",
-      "iso3": "LVA"
-    },
-    {
-      "name": "Macao SAR, China",
+      "name": "Macau",
       "iso2": "MO",
       "iso3": "MAC"
-    },
-    {
-      "name": "St. Martin (French part)",
-      "iso2": "MF",
-      "iso3": "MAF"
-    },
-    {
-      "name": "Monaco",
-      "iso2": "MC",
-      "iso3": "MCO"
     },
     {
       "name": "Malta",
@@ -264,29 +254,9 @@
       "iso3": "MLT"
     },
     {
-      "name": "Northern Mariana Islands",
-      "iso2": "MP",
-      "iso3": "MNP"
-    },
-    {
-      "name": "Mauritius",
-      "iso2": "MU",
-      "iso3": "MUS"
-    },
-    {
-      "name": "New Caledonia",
-      "iso2": "NC",
-      "iso3": "NCL"
-    },
-    {
-      "name": "Netherlands",
-      "iso2": "NL",
-      "iso3": "NLD"
-    },
-    {
-      "name": "Norway",
-      "iso2": "NO",
-      "iso3": "NOR"
+      "name": "Monaco",
+      "iso2": "MC",
+      "iso3": "MCO"
     },
     {
       "name": "Nauru",
@@ -294,9 +264,29 @@
       "iso3": "NRU"
     },
     {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD"
+    },
+    {
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "iso3": "NCL"
+    },
+    {
       "name": "New Zealand",
       "iso2": "NZ",
       "iso3": "NZL"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "iso2": "MP",
+      "iso3": "MNP"
+    },
+    {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR"
     },
     {
       "name": "Oman",
@@ -304,14 +294,14 @@
       "iso3": "OMN"
     },
     {
-      "name": "Panama",
-      "iso2": "PA",
-      "iso3": "PAN"
-    },
-    {
       "name": "Palau",
       "iso2": "PW",
       "iso3": "PLW"
+    },
+    {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN"
     },
     {
       "name": "Poland",
@@ -319,19 +309,14 @@
       "iso3": "POL"
     },
     {
-      "name": "Puerto Rico",
-      "iso2": "PR",
-      "iso3": "PRI"
-    },
-    {
       "name": "Portugal",
       "iso2": "PT",
       "iso3": "PRT"
     },
     {
-      "name": "French Polynesia",
-      "iso2": "PF",
-      "iso3": "PYF"
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "iso3": "PRI"
     },
     {
       "name": "Qatar",
@@ -344,14 +329,19 @@
       "iso3": "ROU"
     },
     {
-      "name": "Saudi Arabia",
-      "iso2": "SA",
-      "iso3": "SAU"
+      "name": "Russia",
+      "iso2": "RU",
+      "iso3": "RUS"
     },
     {
-      "name": "Singapore",
-      "iso2": "SG",
-      "iso3": "SGP"
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA"
+    },
+    {
+      "name": "Saint Martin",
+      "iso2": "MF",
+      "iso3": "MAF"
     },
     {
       "name": "San Marino",
@@ -359,7 +349,27 @@
       "iso3": "SMR"
     },
     {
-      "name": "Slovak Republic",
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP"
+    },
+    {
+      "name": "Sint Maarten",
+      "iso2": "SX",
+      "iso3": "SXM"
+    },
+    {
+      "name": "Slovakia",
       "iso2": "SK",
       "iso3": "SVK"
     },
@@ -369,24 +379,29 @@
       "iso3": "SVN"
     },
     {
+      "name": "South Korea",
+      "iso2": "KR",
+      "iso3": "KOR"
+    },
+    {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP"
+    },
+    {
       "name": "Sweden",
       "iso2": "SE",
       "iso3": "SWE"
     },
     {
-      "name": "Sint Maarten (Dutch part)",
-      "iso2": "SX",
-      "iso3": "SXM"
+      "name": "Switzerland",
+      "iso2": "CH",
+      "iso3": "CHE"
     },
     {
-      "name": "Seychelles",
-      "iso2": "SC",
-      "iso3": "SYC"
-    },
-    {
-      "name": "Turks and Caicos Islands",
-      "iso2": "TC",
-      "iso3": "TCA"
+      "name": "Taiwan",
+      "iso2": "TW",
+      "iso3": "TWN"
     },
     {
       "name": "Trinidad and Tobago",
@@ -394,14 +409,19 @@
       "iso3": "TTO"
     },
     {
-      "name": "Taiwan, China",
-      "iso2": "TW",
-      "iso3": "TWN"
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "iso3": "TCA"
     },
     {
-      "name": "Uruguay",
-      "iso2": "UY",
-      "iso3": "URY"
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR"
     },
     {
       "name": "United States",
@@ -409,14 +429,14 @@
       "iso3": "USA"
     },
     {
-      "name": "British Virgin Islands",
-      "iso2": "VG",
-      "iso3": "VGB"
-    },
-    {
-      "name": "Virgin Islands (U.S.)",
+      "name": "United States Virgin Islands",
       "iso2": "VI",
       "iso3": "VIR"
+    },
+    {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "iso3": "URY"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "gid": "ida",
   "acronym": "IDA",
   "name": "International Development Association",
-  "description": "The International Development Association (IDA) is the part of the World Bank that helps the world’s poorest countries. Overseen by 173 shareholder nations, IDA aims to reduce poverty by providing loans (called “credits”) and grants for programs that boost economic growth, reduce inequalities, and improve people’s living conditions. IDA complements the World Bank’s original lending arm—the International Bank for Reconstruction and Development (IBRD). IBRD was established to function as a self-sustaining business and provides loans and advice to middle-income and credit-worthy poor countries. IBRD and IDA share the same staff and headquarters and evaluate projects with the same rigorous standards. IDA is one of the largest sources of assistance for the world’s 74 poorest countries and is the single largest source of donor funds for basic social services in these countries. IDA lends money on concessional terms. This means that IDA credits have a zero or very low interest charge and repayments are stretched over 30 to 38 years, including a 5- to 10-year grace period. IDA also provides grants to countries at risk of debt distress. In addition to concessional loans and grants, IDA provides significant levels of debt relief through the Heavily Indebted Poor Countries (HIPC) Initiative and the Multilateral Debt Relief Initiative (MDRI).In the fiscal year ending June 30, 2020, IDA commitments totaled $30.48 billion, of which 26 percent was provided on grant terms. Total commitments in FY20 comprised 305 new operations. Since 1960, IDA has provided $422 billion for investments in 114 countries. Annual commitments have increased steadily and averaged about $25 billion over the last three years (FY18-FY20).IDA is a multi-issue institution, supporting a range of development activities that pave the way toward equality, economic growth, job creation, higher incomes, and better living conditions. IDA's work covers primary education, basic health services, clean water and sanitation, agriculture, business climate improvements, infrastructure, and institutional reforms.",
+  "description": "The International Development Association (IDA) is the part of the World Bank that helps the world’s poorest countries. Overseen by 173 shareholder nations, IDA aims to reduce poverty by providing loans (called “credits”) and grants for programs that boost economic growth, reduce inequalities, and improve people’s living conditions. IDA complements the World Bank’s original lending arm—the International Bank for Reconstruction and Development (IBRD). IBRD was established to function as a self-sustaining business and provides loans and advice to middle-income and credit-worthy poor countries. IBRD and IDA share the same staff and headquarters and evaluate projects with the same rigorous standards. IDA is one of the largest sources of assistance for the world’s 78 poorest countries (IDA-eligible countries for fiscal year 2027, including 19 blend countries) and is the single largest source of donor funds for basic social services in these countries. IDA lends money on concessional terms. This means that IDA credits have a zero or very low interest charge and repayments are stretched over 30 to 38 years, including a 5- to 10-year grace period. IDA also provides grants to countries at risk of debt distress. In addition to concessional loans and grants, IDA provides significant levels of debt relief through the Heavily Indebted Poor Countries (HIPC) Initiative and the Multilateral Debt Relief Initiative (MDRI).In the fiscal year ending June 30, 2020, IDA commitments totaled $30.48 billion, of which 26 percent was provided on grant terms. Total commitments in FY20 comprised 305 new operations. Since 1960, IDA has provided $422 billion for investments in 114 countries. Annual commitments have increased steadily and averaged about $25 billion over the last three years (FY18-FY20).IDA is a multi-issue institution, supporting a range of development activities that pave the way toward equality, economic growth, job creation, higher incomes, and better living conditions. IDA's work covers primary education, basic health services, clean water and sanitation, agriculture, business climate improvements, infrastructure, and institutional reforms.",
   "classifier": "World Bank",
   "domains": [
     "World Bank"
@@ -297,6 +297,106 @@
       "name": "Zambia",
       "iso2": "ZM",
       "iso3": "ZMB"
+    },
+    {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ"
+    },
+    {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR"
+    },
+    {
+      "name": "Congo - Brazzaville",
+      "iso2": "CG",
+      "iso3": "COG"
+    },
+    {
+      "name": "Cape Verde",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA"
+    },
+    {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI"
+    },
+    {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD"
+    },
+    {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN"
+    },
+    {
+      "name": "St. Lucia",
+      "iso2": "LC",
+      "iso3": "LCA"
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK"
+    },
+    {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "Suriname",
+      "iso2": "SR",
+      "iso3": "SUR"
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS"
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB"
+    },
+    {
+      "name": "St. Vincent & Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT"
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE"
     }
   ]
 }

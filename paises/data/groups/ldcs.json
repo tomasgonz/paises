@@ -2,7 +2,7 @@
   "gid": "ldcs",
   "acronym": "LDCs",
   "name": "Least Developed Countries",
-  "description": "The least developed countries (LDCs) is a list of developing countries that, according to the United Nations, exhibit the lowest indicators of socioeconomic development, with the lowest Human Development Index ratings of all countries in the world.",
+  "description": "Least Developed Countries as designated by the UN (Committee for Development Policy / UN DESA): 44 countries as of October 2026. Graduations: Botswana (1994), Cabo Verde (2007), Maldives (2011), Samoa (2014), Equatorial Guinea (2017), Vanuatu (2020), Bhutan (13 December 2023), São Tomé and Príncipe (13 December 2024). Scheduled: Lao PDR and Nepal (24 November 2026, Nepal has requested an extension), Solomon Islands (13 December 2027), Bangladesh, Cambodia and Senegal (2029).",
   "classifier": "United Nations",
   "domains": [
     "UNGA"
@@ -162,11 +162,6 @@
       "name": "Rwanda",
       "iso2": "RW",
       "iso3": "RWA"
-    },
-    {
-      "name": "Sao Tome and Principe",
-      "iso2": "ST",
-      "iso3": "STP"
     },
     {
       "name": "Senegal",

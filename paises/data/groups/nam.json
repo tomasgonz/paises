@@ -2,7 +2,7 @@
   "gid": "nam",
   "acronym": "NAM",
   "name": "The Non Aligned Movement",
-  "description": "The Non-Aligned Movement (NAM) is a group of States who do not consider themselves aligned formally with or against any major power bloc. The NAM currently has 118 members and 18 observers. A NAM summit takes place every three years. The host country of the summit is automatically the Chair until the next summit. The “NAM Troika” consists of the current, previous and incoming Chair. In the GA the group co-ordinates on peace and security issues as well as on First, Fourth, Sixth and some Third Committee issues. The Permanent Mission of the NAM Chair is the focal point for all communication with the group. ",
+  "description": "The Non-Aligned Movement (NAM) is a group of States who do not consider themselves aligned formally with or against any major power bloc. The NAM currently has 120 members and 18 observers (South Sudan joined in 2024; Chile withdrew in August 2026). A NAM summit takes place every three years. The host country of the summit is automatically the Chair until the next summit. The “NAM Troika” consists of the current, previous and incoming Chair. In the GA the group co-ordinates on peace and security issues as well as on First, Fourth, Sixth and some Third Committee issues. The Permanent Mission of the NAM Chair is the focal point for all communication with the group. ",
   "classifier": "United Nations General Assembly",
   "domains": [
     "UNGA"
@@ -79,19 +79,9 @@
       "iso3": "BOL"
     },
     {
-      "name": "Bosnia and Herzegovina",
-      "iso2": "BA",
-      "iso3": "BIH"
-    },
-    {
       "name": "Botswana",
       "iso2": "BW",
       "iso3": "BWA"
-    },
-    {
-      "name": "Brazil",
-      "iso2": "BR",
-      "iso3": "BRA"
     },
     {
       "name": "Brunei Darussalam",
@@ -134,11 +124,6 @@
       "iso3": "TCD"
     },
     {
-      "name": "Chile",
-      "iso2": "CL",
-      "iso3": "CHL"
-    },
-    {
       "name": "Colombia",
       "iso2": "CO",
       "iso3": "COL"
@@ -157,11 +142,6 @@
       "name": "Congo, Rep.",
       "iso2": "CG",
       "iso3": "COG"
-    },
-    {
-      "name": "Costa Rica",
-      "iso2": "CR",
-      "iso3": "CRI"
     },
     {
       "name": "Cuba",
@@ -447,11 +427,6 @@
       "name": "Papua New Guinea",
       "iso2": "PG",
       "iso3": "PNG"
-    },
-    {
-      "name": "Paraguay",
-      "iso2": "PY",
-      "iso3": "PRY"
     },
     {
       "name": "Peru",

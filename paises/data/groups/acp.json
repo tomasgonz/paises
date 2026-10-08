@@ -2,7 +2,7 @@
   "gid": "acp",
   "acronym": "ACP",
   "name": "African, Caribbean and Pacific countries",
-  "description": "The ACP Group comprises 79 members, forty of which are Least-Developed Countries, most of them from Africa, and its objectives are to contribute to the economic development and to the social progress of its member states.",
+  "description": "The Organisation of African, Caribbean and Pacific States (OACPS, formerly the ACP Group) was created by the Georgetown Agreement in 1975 and became an international organisation under the Revised Georgetown Agreement in 2020. It describes itself as comprising 79 members (48 African, 16 Caribbean and 15 Pacific), many of them Least-Developed Countries; this list also includes South Sudan, which acceded to the ACP-EU partnership in 2012. Its objectives are to contribute to the economic development and to the social progress of its member states.",
   "classifier": "World Trade Organisation",
   "domains": [
     "WTO"
@@ -287,6 +287,126 @@
       "name": "Zimbabwe",
       "iso2": "ZW",
       "iso3": "ZWE"
+    },
+    {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS"
+    },
+    {
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "iso3": "COK"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Cape Verde",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI"
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "name": "Micronesia",
+      "iso2": "FM",
+      "iso3": "FSM"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ"
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL"
+    },
+    {
+      "name": "Niue",
+      "iso2": "NU",
+      "iso3": "NIU"
+    },
+    {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU"
+    },
+    {
+      "name": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD"
+    },
+    {
+      "name": "São Tomé & Príncipe",
+      "iso2": "ST",
+      "iso3": "STP"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS"
+    },
+    {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON"
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV"
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT"
+    },
+    {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM"
     }
   ]
 }

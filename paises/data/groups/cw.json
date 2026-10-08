@@ -2,7 +2,7 @@
   "gid": "cw",
   "acronym": "cw",
   "name": "The Commonwealth",
-  "description": "The Commonwealth is a voluntary association of 54 independent and equal countries. It is home to 2.4 billion people, and includes both advanced economies and developing countries.",
+  "description": "The Commonwealth is a voluntary association of 56 independent and equal countries. It is home to 2.7 billion people, and includes both advanced economies and developing countries. Gabon and Togo joined in June 2022.",
   "classifier": "The Commonwealth",
   "domains": [
     "Africa",
@@ -282,6 +282,16 @@
       "name": "Zimbabwe",
       "iso2": "ZW",
       "iso3": "ZWE"
+    },
+    {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO"
     }
   ]
 }

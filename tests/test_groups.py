@@ -27,10 +27,11 @@ def test_get_group_case_insensitive():
 def test_get_members():
     g = Groups()
     members = g.get_members("BRICS")
-    assert len(members) == 5
+    assert len(members) == 10          # five founders + Egypt, Ethiopia, Iran, UAE (2024), Indonesia (2025)
     names = {m.name for m in members}
     assert "Brazil" in names
     assert "China" in names
+    assert "Indonesia" in names
 
 
 def test_get_country_groups():

@@ -2,7 +2,7 @@
   "gid": "ecowas",
   "acronym": "ECOWAS",
   "name": "Economic Community of West African States (ECOWAS)",
-  "description": "stablished on May 28 1975 via the treaty of Lagos, ECOWAS is a 15-member regional group with a mandate of promoting economic integration in all fields of activity of the constituting countries.",
+  "description": "Established on May 28 1975 via the treaty of Lagos, ECOWAS is a regional group with a mandate of promoting economic integration in all fields of activity of the constituting countries. It has 12 member states since Mali, Burkina Faso and Niger withdrew on 29 January 2025.",
   "classifier": "ECOWAS",
   "domains": [
     "Africa"
@@ -47,16 +47,6 @@
       "name": "Liberia",
       "iso2": "LR",
       "iso3": "LBR"
-    },
-    {
-      "name": "Mali",
-      "iso2": "ML",
-      "iso3": "MLI"
-    },
-    {
-      "name": "Niger",
-      "iso2": "NE",
-      "iso3": "NER"
     },
     {
       "name": "Nigeria",

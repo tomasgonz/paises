@@ -1,8 +1,8 @@
 {
   "gid": "lics",
   "acronym": "LICs",
-  "name": "Low income Economies",
-  "description": "Low Income Economies, a category established by the World Bank, for the 2021 fiscal year, are defined as those with a GNI per capita, calculated using the World Bank Atlas method ",
+  "name": "Low-income economies",
+  "description": "Low-income economies: GNI per capita of $1,175 or less. World Bank income classification for fiscal year 2027 (July 2026 release, based on 2025 GNI per capita, Atlas method).",
   "classifier": "World Bank",
   "domains": [
     "World Bank"
@@ -14,29 +14,9 @@
       "iso3": "AFG"
     },
     {
-      "name": "Guinea-Bissau",
-      "iso2": "GW",
-      "iso3": "GNB"
-    },
-    {
-      "name": "Sierra Leone",
-      "iso2": "SL",
-      "iso3": "SLE"
-    },
-    {
       "name": "Burkina Faso",
       "iso2": "BF",
       "iso3": "BFA"
-    },
-    {
-      "name": "Haiti",
-      "iso2": "HT",
-      "iso3": "HTI"
-    },
-    {
-      "name": "Somalia",
-      "iso2": "SO",
-      "iso3": "SOM"
     },
     {
       "name": "Burundi",
@@ -44,29 +24,9 @@
       "iso3": "BDI"
     },
     {
-      "name": "Korea, Dem. People's Rep.",
-      "iso2": "KP",
-      "iso3": "PRK"
-    },
-    {
-      "name": "South Sudan",
-      "iso2": "SS",
-      "iso3": "SSD"
-    },
-    {
       "name": "Central African Republic",
       "iso2": "CF",
       "iso3": "CAF"
-    },
-    {
-      "name": "Liberia",
-      "iso2": "LR",
-      "iso3": "LBR"
-    },
-    {
-      "name": "Sudan",
-      "iso2": "SD",
-      "iso3": "SDN"
     },
     {
       "name": "Chad",
@@ -74,29 +34,9 @@
       "iso3": "TCD"
     },
     {
-      "name": "Madagascar",
-      "iso2": "MG",
-      "iso3": "MDG"
-    },
-    {
-      "name": "Syria",
-      "iso2": "SY",
-      "iso3": "SYR"
-    },
-    {
-      "name": "Congo, Dem. Rep.",
+      "name": "DR Congo",
       "iso2": "CD",
       "iso3": "COD"
-    },
-    {
-      "name": "Malawi",
-      "iso2": "MW",
-      "iso3": "MWI"
-    },
-    {
-      "name": "Tajikistan",
-      "iso2": "TJ",
-      "iso3": "TJK"
     },
     {
       "name": "Eritrea",
@@ -104,19 +44,39 @@
       "iso3": "ERI"
     },
     {
-      "name": "Mali",
-      "iso2": "ML",
-      "iso3": "MLI"
-    },
-    {
-      "name": "Togo",
-      "iso2": "TG",
-      "iso3": "TGO"
-    },
-    {
       "name": "Ethiopia",
       "iso2": "ET",
       "iso3": "ETH"
+    },
+    {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI"
     },
     {
       "name": "Mozambique",
@@ -124,34 +84,54 @@
       "iso3": "MOZ"
     },
     {
-      "name": "Uganda",
-      "iso2": "UG",
-      "iso3": "UGA"
-    },
-    {
-      "name": "Gambia, The",
-      "iso2": "GM",
-      "iso3": "GMB"
-    },
-    {
       "name": "Niger",
       "iso2": "NE",
       "iso3": "NER"
     },
     {
-      "name": "Yemen, Rep.",
-      "iso2": "YE",
-      "iso3": "YEM"
-    },
-    {
-      "name": "Guinea",
-      "iso2": "GN",
-      "iso3": "GIN"
+      "name": "North Korea",
+      "iso2": "KP",
+      "iso3": "PRK"
     },
     {
       "name": "Rwanda",
       "iso2": "RW",
       "iso3": "RWA"
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Syria",
+      "iso2": "SY",
+      "iso3": "SYR"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM"
     }
   ]
 }

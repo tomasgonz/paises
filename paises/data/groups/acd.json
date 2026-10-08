@@ -2,7 +2,7 @@
   "gid": "acd",
   "acronym": "ACD",
   "name": "Asia Cooperation Dialogue",
-  "description": "The Asia Cooperation Dialogue (ACD) was inaugurated in June 2002 in Cha-Am, Thailand, where 18 Asian Foreign Ministers met together for the first time. The ACD is a continent-wide forum, the first of its kind in Asia. More specifically, the ACD aims to constitute the missing link in Asia by incorporating every Asian country and building an Asian Community without duplicating other organizations or creating a bloc against others. A key principle is to consolidate Asian strengths and fortify Asia's competitiveness by maximizing the diversity and rich resources evident in Asia. The core values of the ACD are positive thinking; informality; voluntarism; non-institutionalization; openness; respect for diversity; the comfort level of member countries; and the evolving nature of the ACD process.",
+  "description": "The Asia Cooperation Dialogue (ACD) was inaugurated in June 2002 in Cha-Am, Thailand, where 18 Asian Foreign Ministers met together for the first time. The ACD is a continent-wide forum, the first of its kind in Asia, and has grown to 35 member countries (Palestine joined in 2019). More specifically, the ACD aims to constitute the missing link in Asia by incorporating every Asian country and building an Asian Community without duplicating other organizations or creating a bloc against others. A key principle is to consolidate Asian strengths and fortify Asia's competitiveness by maximizing the diversity and rich resources evident in Asia. The core values of the ACD are positive thinking; informality; voluntarism; non-institutionalization; openness; respect for diversity; the comfort level of member countries; and the evolving nature of the ACD process.",
   "classifier": "ACD",
   "domains": [
     "Asia"
@@ -177,6 +177,11 @@
       "name": "Vietnam",
       "iso2": "VN",
       "iso3": "VNM"
+    },
+    {
+      "name": "Palestinian Territories",
+      "iso2": "PS",
+      "iso3": "PSE"
     }
   ]
 }

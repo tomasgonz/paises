@@ -1,8 +1,8 @@
 {
   "gid": "lmc",
   "acronym": "LMCs",
-  "name": "Lower middle income economies",
-  "description": "Lower Middle Income Economies, a category established by the World Bank, for the 2021 fiscal year, are defined as those with a GNI per capita between $1,036 and $4,045",
+  "name": "Lower-middle-income economies",
+  "description": "Lower-middle-income economies: GNI per capita between $1,176 and $4,635. World Bank income classification for fiscal year 2027 (July 2026 release, based on 2025 GNI per capita, Atlas method).",
   "classifier": "World Bank",
   "domains": [
     "World Bank"
@@ -14,19 +14,14 @@
       "iso3": "AGO"
     },
     {
-      "name": "Benin",
-      "iso2": "BJ",
-      "iso3": "BEN"
-    },
-    {
       "name": "Bangladesh",
       "iso2": "BD",
       "iso3": "BGD"
     },
     {
-      "name": "Bolivia",
-      "iso2": "BO",
-      "iso3": "BOL"
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN"
     },
     {
       "name": "Bhutan",
@@ -34,9 +29,14 @@
       "iso3": "BTN"
     },
     {
-      "name": "Cote d'Ivoire",
-      "iso2": "CI",
-      "iso3": "CIV"
+      "name": "Bolivia",
+      "iso2": "BO",
+      "iso3": "BOL"
+    },
+    {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM"
     },
     {
       "name": "Cameroon",
@@ -44,19 +44,9 @@
       "iso3": "CMR"
     },
     {
-      "name": "Congo, Rep.",
-      "iso2": "CG",
-      "iso3": "COG"
-    },
-    {
       "name": "Comoros",
       "iso2": "KM",
       "iso3": "COM"
-    },
-    {
-      "name": "Cabo Verde",
-      "iso2": "CV",
-      "iso3": "CPV"
     },
     {
       "name": "Djibouti",
@@ -64,24 +54,29 @@
       "iso3": "DJI"
     },
     {
-      "name": "Algeria",
-      "iso2": "DZ",
-      "iso3": "DZA"
-    },
-    {
-      "name": "Egypt, Arab Rep.",
+      "name": "Egypt",
       "iso2": "EG",
       "iso3": "EGY"
     },
     {
-      "name": "Micronesia, Fed. Sts.",
-      "iso2": "FM",
-      "iso3": "FSM"
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ"
     },
     {
       "name": "Ghana",
       "iso2": "GH",
       "iso3": "GHA"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI"
     },
     {
       "name": "Honduras",
@@ -94,19 +89,14 @@
       "iso3": "IND"
     },
     {
+      "name": "Ivory Coast",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
       "name": "Kenya",
       "iso2": "KE",
       "iso3": "KEN"
-    },
-    {
-      "name": "Kyrgyz Republic",
-      "iso2": "KG",
-      "iso3": "KGZ"
-    },
-    {
-      "name": "Cambodia",
-      "iso2": "KH",
-      "iso3": "KHM"
     },
     {
       "name": "Kiribati",
@@ -114,14 +104,19 @@
       "iso3": "KIR"
     },
     {
-      "name": "Lao PDR",
+      "name": "Kyrgyzstan",
+      "iso2": "KG",
+      "iso3": "KGZ"
+    },
+    {
+      "name": "Laos",
       "iso2": "LA",
       "iso3": "LAO"
     },
     {
-      "name": "Sri Lanka",
-      "iso2": "LK",
-      "iso3": "LKA"
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN"
     },
     {
       "name": "Lesotho",
@@ -129,14 +124,14 @@
       "iso3": "LSO"
     },
     {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
       "name": "Morocco",
       "iso2": "MA",
       "iso3": "MAR"
-    },
-    {
-      "name": "Moldova",
-      "iso2": "MD",
-      "iso3": "MDA"
     },
     {
       "name": "Myanmar",
@@ -144,24 +139,9 @@
       "iso3": "MMR"
     },
     {
-      "name": "Mongolia",
-      "iso2": "MN",
-      "iso3": "MNG"
-    },
-    {
-      "name": "Mauritania",
-      "iso2": "MR",
-      "iso3": "MRT"
-    },
-    {
-      "name": "Nigeria",
-      "iso2": "NG",
-      "iso3": "NGA"
-    },
-    {
-      "name": "Nicaragua",
-      "iso2": "NI",
-      "iso3": "NIC"
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM"
     },
     {
       "name": "Nepal",
@@ -169,14 +149,24 @@
       "iso3": "NPL"
     },
     {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
       "name": "Pakistan",
       "iso2": "PK",
       "iso3": "PAK"
     },
     {
-      "name": "Philippines",
-      "iso2": "PH",
-      "iso3": "PHL"
+      "name": "Palestine",
+      "iso2": "PS",
+      "iso3": "PSE"
     },
     {
       "name": "Papua New Guinea",
@@ -184,9 +174,9 @@
       "iso3": "PNG"
     },
     {
-      "name": "West Bank and Gaza",
-      "iso2": "PS",
-      "iso3": "PSE"
+      "name": "Republic of the Congo",
+      "iso2": "CG",
+      "iso3": "COG"
     },
     {
       "name": "Senegal",
@@ -199,29 +189,14 @@
       "iso3": "SLB"
     },
     {
-      "name": "El Salvador",
-      "iso2": "SV",
-      "iso3": "SLV"
-    },
-    {
-      "name": "Sao Tome and Principe",
+      "name": "São Tomé and Príncipe",
       "iso2": "ST",
       "iso3": "STP"
     },
     {
-      "name": "Eswatini",
-      "iso2": "SZ",
-      "iso3": "SWZ"
-    },
-    {
-      "name": "Timor-Leste",
-      "iso2": "TL",
-      "iso3": "TLS"
-    },
-    {
-      "name": "Tunisia",
-      "iso2": "TN",
-      "iso3": "TUN"
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK"
     },
     {
       "name": "Tanzania",
@@ -229,9 +204,19 @@
       "iso3": "TZA"
     },
     {
-      "name": "Ukraine",
-      "iso2": "UA",
-      "iso3": "UKR"
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO"
+    },
+    {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN"
     },
     {
       "name": "Uzbekistan",
@@ -239,14 +224,14 @@
       "iso3": "UZB"
     },
     {
-      "name": "Vietnam",
-      "iso2": "VN",
-      "iso3": "VNM"
-    },
-    {
       "name": "Vanuatu",
       "iso2": "VU",
       "iso3": "VUT"
+    },
+    {
+      "name": "Venezuela",
+      "iso2": "VE",
+      "iso3": "VEN"
     },
     {
       "name": "Zambia",

@@ -288,6 +288,11 @@
       "name": "Suriname",
       "iso2": "SR",
       "iso3": "SUR"
+    },
+    {
+      "name": "Syria",
+      "iso2": "SY",
+      "iso3": "SYR"
     }
   ]
 }
